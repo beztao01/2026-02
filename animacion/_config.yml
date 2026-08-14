@@ -2,7 +2,9 @@ title: Animacion Digital Tridimensional
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+#url: https://just-the-docs.github.io
+url: "https://beztao01.github.io"
+baseurl: "/2026-02/animacion" dependiendo de si Jekyll está en la raíz o dentro de cada subcarpeta
 
 # Configuración del esquema de color
 color_scheme: dark
